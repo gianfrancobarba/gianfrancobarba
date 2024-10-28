@@ -12,6 +12,19 @@ con una passione per la creazione di soluzioni innovative e il superamento di sf
 
 ## 🔥 Progetti Principali
 
+### [👨🏻‍⚕️ MedMiner - ComorGraph](https://github.com/gianfrancobarba/MedMiner)
+Web application scritta in Python e React. MedMiner è un ecosistema che ha come obiettivo quello
+di supportare i medici nell'analisi di dati clinici. 
+ComorGraph è una piattaforma integrata in MedMiner e supporta i medici nello studio della Comorbidità
+unificando tecniche di Visual Analytics e Social Network Analysis. 
+Servizi di ComorGraph:
+- Dashboard per analisi preliminari dei dati clinici caricati;
+- Caricamento dinamico di dati per svolgere analisi su dati proveninenti da fonti eterogenee;
+- Visualizzazione del Grafo di Comorbidità in 3 viste differenti: Paziente, Malattia, Prescrizione;
+- Slider Temporale per analizzare la storia clinica del singolo paziente;
+- Modulo di IA che prevede la probabilità di sviluppare una malattia dato in input il grafo clinico del paziente
+  (NB: verrà integrato nella piattaforma nella prossima versione, per ora è esterno).
+
 ### [🚀 RESTART](https://github.com/gianfrancobarba/ReStart)
 Applicazione scritta in Dart e Flutter con lo scopo della re-integrazione degli ex-detenuti nella società, 
 tramite vari servizi:
