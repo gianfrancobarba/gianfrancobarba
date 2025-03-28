@@ -42,7 +42,31 @@ E' il modulo di Intelligenza Artificiale del progetto ReStart e contiene:
 - Data Preparation;
 - Addestramento;
 - Analisi dei risultati.
-  
+Certamente! Ecco una microsezione per aggiungere il progetto **Toy3 Compiler** al tuo profilo GitHub:
+
+### 🛠️ [Toy3 Compiler](https://github.com/gianfrancobarba/Toy3_Compiler)
+Toy3 è un linguaggio di programmazione didattico progettato per esplorare le fasi principali della costruzione di un compilatore. Questo progetto implementa un compilatore completo per Toy3 in **Java**, comprendente:
+
+- Analizzatore lessicale (lexer) con **JFlex**
+- Analizzatore sintattico (parser) con **JavaCup**
+- Costruzione dell’**AST**
+- Gestione dello **scoping**
+- **Type Checking** semantico
+- Generazione di **codice intermedio in linguaggio C**
+- Architettura modulare basata su **Visitor Pattern**
+
+Caratteristiche principali del linguaggio Toy3:
+- Dichiarazioni di variabili e funzioni
+- Tipi primitivi: `int`, `bool`, `double`, `string`, `char`
+- Costanti: booleane (`true`, `false`) e letterali (`"stringhe"`, `'c'`, `42`, `3.14`)
+- Controllo di flusso: `if`, `else`, `while`
+- Input/output: `Vars <<`, `Exprs >>`, `Exprs !>>`
+- Funzioni con parametri per valore o per riferimento (`ref`)
+- Assegnamenti multipli (es. `a | b := x | y`)
+- Espressioni aritmetiche, logiche e relazionali
+
+Toy3 Compiler è stato realizzato come parte di un corso universitario avanzato sui compilatori. L’obiettivo è fornire un’implementazione completa e modulare delle principali fasi di un compilatore reale.
+
 ### [🔥 VAPORANT](https://github.com/gianfrancobarba/Vaporant)
 Sitoweb per un e-commerce online di sigarette elettroniche.
 Frontend: HTML, CSS, JavaScript
